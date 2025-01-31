@@ -925,3 +925,15 @@ NOTE: Sound doesn't work and a lot of websites are blocked, but it's just fun to
 (Not really) credit to mundaneunblocking
 
 [**🔼 Back to top**](#ext-remover)
+
+## v86
+**Requirments:**
+1. Decent chromebook (level impossible)
+2. Unblocked copy.sh domain
+4. Patience
+3-1. Alot of class time, tab switches, etc.
+Instructions**
+1. Go To https://copy.sh/v86/
+2. Choose an OS, preferably a fairly new one with web access
+3. *w a i t*
+4. Done! You can test the html support by using a html5 tester or something, idk.
